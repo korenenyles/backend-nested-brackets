@@ -3,7 +3,7 @@
 """
 Module docstring: One line description of what your program does.
 """
-__author__ = "SEAN BAILEY, CHRIS WILSON, KANO MARVEL "
+__author__ = "KOREN NYLES, SEAN BAILEY, CHRIS WILSON, KANO MARVEL "
 
 import sys
 
